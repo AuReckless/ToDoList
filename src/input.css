@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@200..1000&display=swap');
 
 * {
-    @apply m-0 p-0 box-border scroll-smooth selection:bg-orange-500;
+    @apply m-0 p-0 box-border scroll-smooth selection:bg-orange-700;
 }
 
 @layer components {
